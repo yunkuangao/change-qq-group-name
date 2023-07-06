@@ -1,0 +1,23 @@
+{
+  "name": "@yunkuangao/koishi-plugin-change-qq-group-name",
+  "description": "修改qq群名称",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "author": "yun <yun@yka.moe>",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yunkuangao/change-qq-group-name",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.13.6"
+  }
+}
